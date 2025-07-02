@@ -1,0 +1,99 @@
+﻿Text,Sentiment,Source,Date/Time,User ID,Location,Confidence Score
+"""I love this product!""", Positive, Twitter,6/15/2023 9:23:14 AM, @user123, New York,0.85
+"""The service was terrible.""", Negative, Yelp Reviews,6/15/2023 11:45:32 AM, user456, Los Angeles,0.65
+"""This movie is amazing!""", Positive, IMDb,6/15/2023 2:10:22 PM, moviefan789, London,0.92
+"""I'm so disappointed with their customer support.""", Negative, Online Forum,6/15/2023 5:35:11 PM, forumuser1, Toronto,0.78
+"""Just had the best meal of my life!""", Positive, TripAdvisor,6/16/2023 8:50:59 AM, foodie22, Paris,0.88
+"""The quality of this product is subpar.""", Negative, Amazon Reviews,6/16/2023 10:15:27 AM, shopper123, San Francisco,0.72
+"""I can't stop listening to this song. It's incredible!""", Positive, Spotify,6/16/2023 1:40:18 PM, musiclover456, Berlin,0.91
+"""Their website is so user-friendly. Love it!""", Positive, Website Testimonial,6/16/2023 4:05:36 PM, testimonialuser1, Sydney,0.87
+"""I loved the movie! It was fantastic!""", Positive, IMDb,7/2/2023 9:12:34 AM, user123, New York,0.92
+"""The customer service was terrible.""", Negative, Yelp Reviews,7/2/2023 10:45:21 AM, user456, Los Angeles,0.65
+"""This book made me feel inspired. Highly recommended!""", Positive, Goodreads,7/2/2023 12:34:56 PM, bookworm789, London,0.88
+"""I'm extremely disappointed with their product quality.""", Negative, Online Store,7/2/2023 3:21:43 PM, shopper789, San Francisco,0.72
+"""Just had the most amazing vacation! I can't wait to go back.""", Positive, TripAdvisor,7/2/2023 6:01:23 PM, travelenthusiast1, Sydney,0.93
+"""The food at this restaurant was awful. Never going back again!""", Negative, Zomato,7/2/2023 8:45:37 PM, foodlover123, Mumbai,0.55
+"""I can't stop listening to this song. It's my new favorite!""", Positive, Spotify,7/3/2023 9:17:52 AM, musiclover789, Berlin,0.91
+"""Their website is so confusing and poorly designed.""", Negative, Website Review,7/3/2023 11:59:18 AM, user789, Toronto,0.68
+"""I had an incredible experience at the theme park. So much fun!""", Positive, Trip Report,7/3/2023 2:40:05 PM, thrillseeker1, Orlando,0.89
+"""The product arrived damaged. Very disappointed.""", Negative, Online Store,7/3/2023 5:25:09 PM, buyer123, Chicago,0.76
+"""The concert was absolutely breathtaking. Best performance ever!""", Positive, Event Review,7/3/2023 8:15:33 PM, musicfan456, Paris,0.95
+"""I had a terrible experience with their customer support.""", Negative, Online Chat,7/4/2023 8:32:41 AM, user1234, Sydney,0.61
+"""This movie is a masterpiece! I was blown away.""", Positive, IMDb,7/4/2023 2:05:27 PM, cinephile789, Los Angeles,0.93
+"""The customer service at this store is top-notch.""", Positive, Yelp Reviews,7/4/2023 4:35:19 PM, shopper456, New York,0.82
+"""I'm disappointed with the ending of this book. It fell flat.""", Negative, Goodreads,7/4/2023 7:18:53 PM, booklover123, London,0.68
+"""The product I received was damaged. Unacceptable.""", Negative, Online Store,7/4/2023 9:52:41 PM, buyer789, San Francisco,0.75
+"""Just had the worst flight experience. Delayed and rude staff.""", Negative, Airline Review,7/5/2023 9:10:15 AM, traveler456, Sydney,0.57
+"""The hotel stay was absolutely amazing! Luxury at its finest.""", Positive, TripAdvisor,7/5/2023 12:30:08 PM, traveladdict1, Paris,0.95
+"""The food at this restaurant was outstanding. Highly recommended!""", Positive, Zomato,7/5/2023 3:45:32 PM, foodie789, Mumbai,0.89
+"""This playlist is my go-to for workouts. Energizing and motivating!""", Positive, Spotify,7/5/2023 6:20:17 PM, gymrat123, Berlin,0.91
+"""I had a frustrating experience navigating through their website.""", Negative, Website Review,7/5/2023 9:05:44 PM, user987, Toronto,0.67
+"""The roller coaster ride was thrilling! Heart-pounding excitement!""", Positive, Theme Park Review,7/6/2023 8:48:39 AM, thrillseeker2, Orlando,0.92
+"""The product I ordered never arrived. Terrible service.""", Negative, Online Store,7/6/2023 11:25:56 AM, customer123, Chicago,0.64
+"""I can't get enough of this band. Their music is incredible!""", Positive, Music Review,7/6/2023 2:15:23 PM, musiclover987, London,0.94
+"""I had a great chat with their customer support. Helpful and friendly.""", Positive, Online Chat,7/6/2023 5:02:11 PM, user7890, Sydney,0.85
+"""This restaurant has the most delicious food. I can't wait to go back!""", Positive, TripAdvisor,7/9/2023 9:12:54 AM, foodie123, Paris,0.94
+"""The product I purchased broke within a week. Poor quality.""", Negative, Online Store,7/9/2023 11:45:32 AM, shopper246, Los Angeles,0.61
+"""This book is thought-provoking and beautifully written. Highly recommended!""", Positive, Goodreads,7/9/2023 2:23:18 PM, bookworm567, London,0.89
+"""The customer service at this store is exceptional. They went above and beyond.""", Positive, Retail Store,7/9/2023 5:05:46 PM, shopper7890, New York,0.87
+"""I had a terrible experience with their technical support. No resolution.""", Negative, Online Helpdesk,7/9/2023 7:40:27 PM, user9876, San Francisco,0.63
+"""The live concert was electrifying! The band's energy was contagious.""", Positive, Event Review,7/10/2023 8:50:13 AM, musiclover7890, Sydney,0.92
+"""I'm disappointed with the food at this restaurant. It was tasteless.""", Negative, Zomato,7/10/2023 11:32:59 AM, foodcritic123, Mumbai,0.68
+"""This song always puts me in a good mood. It's my go-to feel-good track!""", Positive, Spotify,7/10/2023 2:20:05 PM, playlistlover456, Berlin,0.93
+"""The website is slow and unresponsive. Difficult to navigate.""", Negative, Website Review,7/10/2023 5:15:22 PM, user24680, Toronto,0.65
+"""The roller coaster ride was exhilarating! Pure adrenaline rush!""", Positive, Theme Park Review,7/10/2023 8:02:37 PM, thrillseeker789, Orlando,0.95
+"""The product I ordered arrived damaged. Very disappointed with the packaging.""", Negative, Online Store,7/11/2023 8:40:51 AM, buyer7890, Chicago,0.67
+"""I'm captivated by this band's unique sound. They're a breath of fresh air!""", Positive, Music Review,7/11/2023 11:22:17 AM, musicfan567, London,0.94
+"""The customer support was quick to respond and resolved my issue. Impressed!""", Positive, Online Chat,7/11/2023 2:18:42 PM, user123456, Sydney,0.85
+"""This restaurant has the best food. I highly recommend it!""", Positive, Yelp Reviews,7/11/2023 5:30:15 PM, foodie246, Los Angeles,0.9
+"""The plot of this movie is confusing and hard to follow.""", Negative, IMDb,7/11/2023 8:15:42 PM, moviegoer789, London,0.62
+"""I'm addicted to this game. It's so much fun!""", Positive, Gaming Forum,7/12/2023 9:05:59 AM, gamer123, New York,0.88
+"""The customer service at this hotel was terrible. Avoid at all costs.""", Negative, Travel Website,7/12/2023 11:45:27 AM, traveler246, Paris,0.57
+"""This book bored me to tears. I couldn't finish it.""", Negative, Goodreads,7/12/2023 2:30:18 PM, bookworm246, San Francisco,0.68
+"""I'm impressed with the sound quality of these headphones. Excellent!""", Positive, Online Store,7/12/2023 5:10:36 PM, audiophile789, Berlin,0.92
+"""The website design is sleek and user-friendly. Easy to navigate.""", Positive, Website Testimonial,7/13/2023 8:50:59 AM, testimonialuser2, Sydney,0.87
+"""I had a terrible experience with their delivery service. Late and unprofessional.""", Negative, Online Store,7/13/2023 11:25:27 AM, shopper4567, Chicago,0.64
+"""The concert was mind-blowing! The band knows how to put on a show.""", Positive, Event Review,7/13/2023 2:05:42 PM, musiclover1234, Paris,0.95
+"""I'm extremely disappointed with the customer support. No resolution.""", Negative, Online Chat,7/13/2023 4:35:19 PM, user98765, Toronto,0.61
+"""The hotel staff were rude and unprofessional. Terrible customer service.""", Negative, Hotel Review,7/17/2023 8:50:13 AM, traveler789, Paris,0.55
+"""The food at this restaurant was mediocre. Nothing special.""", Negative, Zomato,7/17/2023 11:32:59 AM, foodlover2468, Mumbai,0.65
+"""This song always puts me in a nostalgic mood. It reminds me of good times.""", Positive, Spotify,7/17/2023 2:20:05 PM, nostalgiacat123, Berlin,0.88
+"""The website loading speed is frustratingly slow. Needs improvement.""", Negative, Website Review,7/17/2023 5:15:22 PM, user12345, Toronto,0.62
+"""The food at this cafe exceeded my expectations. Absolutely delicious!""", Positive, Food Blog,7/13/2023 7:18:53 PM, foodlover246, Mumbai,0.92
+"""I'm disappointed with the ending of this TV show. It left too many unanswered questions.""", Negative, TV Show Review,7/14/2023 8:32:41 AM, tvfan123, Los Angeles,0.66
+"""This album is a masterpiece. Every song is a work of art!""", Positive, Music Review,7/14/2023 11:05:27 AM, musicenthusiast1, London,0.93
+"""The website layout is cluttered and confusing. Difficult to find information.""", Negative, Website Review,7/14/2023 2:40:05 PM, user2468, Sydney,0.67
+"""The roller coaster at this theme park is a thrilling experience. A must-try!""", Positive, Theme Park Review,7/14/2023 5:25:09 PM, thrillseeker3, Orlando,0.91
+"""The product I ordered never arrived. Poor customer service.""", Negative, Online Store,7/15/2023 8:50:13 AM, buyer1234, Chicago,0.63
+"""I'm in awe of this artist's talent. Their paintings are breathtaking!""", Positive, Art Review,7/15/2023 12:30:08 PM, artlover123, Paris,0.94
+"""The food at this restaurant was disappointing. Not worth the price.""", Negative, Zomato,7/15/2023 3:45:32 PM, foodcritic246, Mumbai,0.68
+"""This playlist is perfect for relaxation. Soothing and calming!""", Positive, Spotify,7/15/2023 6:20:17 PM, relaxmusiclover, Berlin,0.91
+"""The website navigation is smooth and intuitive. I found what I needed quickly.""", Positive, Website Testimonial,7/15/2023 9:05:44 PM, happyuser123, Toronto,0.88
+"""The ride on this cruise ship was an unforgettable experience. I loved every moment!""", Positive, Travel Blog,7/16/2023 9:12:54 AM, travelenthusiast2, Sydney,0.95
+"""The product I received was of poor quality. It broke after a few uses.""", Negative, Online Store,7/16/2023 11:45:32 AM, shopper567, Los Angeles,0.61
+"""This book kept me hooked from start to finish. A captivating read!""", Positive, Goodreads,7/16/2023 2:23:18 PM, bookworm7890, London,0.9
+"""The customer service at this store is outstanding. They truly care about their customers.""", Positive, Retail Store,7/16/2023 5:05:46 PM, happyshopper1, New York,0.92
+"""I had a frustrating experience with their technical support. No resolution provided.""", Negative, Online Helpdesk,7/16/2023 7:40:27 PM, user98765, San Francisco,0.67
+"""The hotel staff were rude and unprofessional. Terrible customer service.""", Negative, Hotel Review,7/17/2023 8:50:13 AM, traveler789, Paris,0.55
+"""The food at this restaurant was mediocre. Nothing special.""", Negative, Zomato,7/17/2023 11:32:59 AM, foodlover2468, Mumbai,0.65
+"""This song always puts me in a nostalgic mood. It reminds me of good times.""", Positive, Spotify,7/17/2023 2:20:05 PM, nostalgiacat123, Berlin,0.88
+"""The website loading speed is frustratingly slow. Needs improvement.""", Negative, Website Review,7/17/2023 5:15:22 PM, user12345, Toronto,0.62
+"""I love this product!""", Positive, Twitter,6/15/2023 9:23:14 AM, @user123, New York,0.85
+"""The service was terrible.""", Negative, Yelp Reviews,6/15/2023 11:45:32 AM, user456, Los Angeles,0.65
+"""This movie is amazing!""", Positive, IMDb,6/15/2023 2:10:22 PM, moviefan789, London,0.92
+"""I'm so disappointed with their customer support.""", Negative, Online Forum,6/15/2023 5:35:11 PM, forumuser1, Toronto,0.78
+"""Just had the best meal of my life!""", Positive, TripAdvisor,6/16/2023 8:50:59 AM, foodie22, Paris,0.88
+"""The quality of this product is subpar.""", Negative, Amazon Reviews,6/16/2023 10:15:27 AM, shopper123, San Francisco,0.72
+"""I can't stop listening to this song. It's incredible!""", Positive, Spotify,6/16/2023 1:40:18 PM, musiclover456, Berlin,0.91
+"""Their website is so user-friendly. Love it!""", Positive, Website Testimonial,6/16/2023 4:05:36 PM, testimonialuser1, Sydney,0.87
+"""I loved the movie! It was fantastic!""", Positive, IMDb,7/2/2023 9:12:34 AM, user123, New York,0.92
+"""The customer service was terrible.""", Negative, Yelp Reviews,7/2/2023 10:45:21 AM, user456, Los Angeles,0.65
+"""This book made me feel inspired. Highly recommended!""", Positive, Goodreads,7/2/2023 12:34:56 PM, bookworm789, London,0.88
+"""I'm extremely disappointed with their product quality.""", Negative, Online Store,7/2/2023 3:21:43 PM, shopper789, San Francisco,0.72
+"""Just had the most amazing vacation! I can't wait to go back.""", Positive, TripAdvisor,7/2/2023 6:01:23 PM, travelenthusiast1, Sydney,0.93
+"""The food at this restaurant was awful. Never going back again!""", Negative, Zomato,7/2/2023 8:45:37 PM, foodlover123, Mumbai,0.55
+"""I can't stop listening to this song. It's my new favorite!""", Positive, Spotify,7/3/2023 9:17:52 AM, musiclover789, Berlin,0.91
+"""Their website is so confusing and poorly designed.""", Negative, Website Review,7/3/2023 11:59:18 AM, user789, Toronto,0.68
+"""I had an incredible experience at the theme park. So much fun!""", Positive, Trip Report,7/3/2023 2:40:05 PM, thrillseeker1, Orlando,0.89
+,null,null,null,null,null,null
+,null,null,null,null,null,null
